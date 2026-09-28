@@ -217,3 +217,6 @@ official source to ensure authenticity and security.
 - 📧 **[Support](mailto:support@softyne.com)**
 - 📖 **[Documentation](https://softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-28 11:32:45 UTC
